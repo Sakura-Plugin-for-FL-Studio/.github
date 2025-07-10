@@ -11,8 +11,10 @@ Bring delicate, organic string sounds to your **FL Studio** projects with **Saku
 
 **Sakura** is an expressive string modeling synthesizer plugin for FL Studio by Image-Line. It emulates plucked, bowed, and struck string sounds using physical modeling synthesis — perfect for ambient, cinematic, and acoustic arrangements.
 
-![Sakura Interface](https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1406304895/production/plugin_descriptions/screenshot/7954.jpg)  
-*Main Sakura interface inside FL Studio*
+
+![String Modeling](https://i.imgur.com/H1ybq21.png)  
+*Detailed pluck and resonance controls*
+
 
 ## 🧩 What’s Included?
 
@@ -57,8 +59,8 @@ This offline deployment includes:
 ---
 
 
-![String Modeling](https://i.imgur.com/H1ybq21.png)  
-*Detailed pluck and resonance controls*
+![Sakura Interface](https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_auto/c_limit,w_450/v1406304895/production/plugin_descriptions/screenshot/7954.jpg)  
+*Main Sakura interface inside FL Studio*
 
 ---
 
